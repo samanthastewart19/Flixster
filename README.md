@@ -23,7 +23,7 @@ This project lets users view a list of movies sourced from the The Movie Databas
 
 ### App Walkthough GIF
 
-<img src="https://github.com/samanthastewart19/Flixster/blob/main/FlixstergitUpdate2.gif" width=250><br>
+<img src="https://github.com/samanthastewart19/Flixster/blob/main/updatedgifFlixster.gif" width=250><br>
 
 ### Notes
 Movie constructor was not accepting any calls and referencing f objects were confusing. 
